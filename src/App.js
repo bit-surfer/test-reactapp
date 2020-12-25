@@ -10,8 +10,8 @@ function App(props) {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <!--Edit <code>src/App.js</code> and save to reload. Hello {subject}! -->
-          This is  first ReactJS app written on Github and deployed on AWS. Made with love for Divya!
+          //Edit <code>src/App.js</code> and save to reload. Hello {subject}!
+          This is the first ReactJS app from Aman. Written on Github and deployed on AWS. Made with &#10084; for Divya!
         </p>
         <a
           className="App-link"
