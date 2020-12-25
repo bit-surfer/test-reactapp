@@ -12,7 +12,7 @@ function App(props) {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the Aman&#39;s first ReactJS app. Written on Github and deployed on AWS.<br>Made with &#10084; for Divya!
+          This is the Aman&#39;s first ReactJS app. Written on Github and deployed on AWS. Made with &#10084; for Divya!
         </p>
         <a
           className="App-link"
